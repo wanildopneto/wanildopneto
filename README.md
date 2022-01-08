@@ -1,8 +1,9 @@
 <h1 align="center">Hello there~</h1>
 <h3 align="center">I'm Wanildo Neto, also known as ImNotNil.</h3>
-<h3 align="center">I'm a passionate Hobbyist Developer from Brazil.</h3>
+<h3 align="center">I'm a Hobbyist Developer from Brazil.</h3>
+<h3 align="center">#GarotoDePrograma</h3>
 
-
+##
 
 ## :heart: Quotes That I Take To Heart
 
@@ -23,9 +24,14 @@
 - "Instinct is something which transcends knowledge" ~ Nikola Tesla
 
 ## :computer: GitHub Analytics
-
-<a href="https://github.com/wanildopneto/github-readme-stats"><img alt="Wanildo Neto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wanildopneto&show_icons=true=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/wanildopneto/github-readme-stats"><img alt="Wanildo Neto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanildopneto&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/wanildopneto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wanildopneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanildopneto&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0D1117" />
+</a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
+  
+##
+
+![Snake animation](https://github.com/wanildopneto/wanildopneto/blob/output/github-contribution-grid-snake.svg)
