@@ -1,30 +1,28 @@
-<h1 align="center">Hello there~ <a target="_blank" rel="noopener noreferrer" href="https://github.com/kamleshjoshi8102/imgbot/blob/main/Hi.gif"><img src="https://github.com/kamleshjoshi8102/imgbot/blob/main/Hi.gif" width="30px" style="max-width:100%;"></a></h1>
+<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/wanildopneto/img/Hi.gif"><img src="https://github.com/wanildopneto/img/Hi.gif" width="30px" style="max-width:100%"></a> Hello there~</h1>
 
-<!--Introduction -->
 I'm Wanildo F. P. Neto and I'm the **IT GUY** that's always looking to solve **real-world problems** .
 
 I'm interested in **EVERYTHING** that involves tech in some way or another and I like to **learn** and **experiment** with new technologies by **getting my hands dirty** and actually **trying** them out in **projects** .
 
 <h2 align="center">❤ Quotes That I Take To Heart</h2>
 
-- “There is always some madness in love. But there is also always some reason in madness.” ~ Friederich Nietzsche
+- “There is always some madness in love. But there is also always some reason in madness.” ~ **Friederich Nietzsche**
 
-- "Out of your vulnerabilities will come your strength." ~ Sigmund Freud
+- "Out of your vulnerabilities will come your strength." ~ **Sigmund Freud**
 
-- "When people criticise me, I know how to defend myself. But I'm powerless in the face of praise." ~ Sigmund Freud
+- "When people criticise me, I know how to defend myself. But I'm powerless in the face of praise." ~ **Sigmund Freud**
 
-- "I have not failed. I've just found 10,000 ways that won't work." ~ Thomas A. Edison
+- "I have not failed. I've just found 10,000 ways that won't work." ~ **Thomas A. Edison**
 
-- “Never memorize something that you can look up.” ~ Albert Einstein
+- “Never memorize something that you can look up.” ~ **Albert Einstein**
 
-- “Everything must be made as simple as possible. But not simpler.” ~ Albert Einstein
+- “Everything must be made as simple as possible. But not simpler.” ~ **Albert Einstein**
 
-- "I don't care that they stole my idea. I care that they don't have any of their own." ~ Nikola Tesla
+- "I don't care that they stole my idea. I care that they don't have any of their own." ~ **Nikola Tesla**
 
-- "Instinct is something which transcends knowledge." ~ Nikola Tesla
+- "Instinct is something which transcends knowledge." ~ **Nikola Tesla**
 
 <h2 align="center">🕹️ Tech I Play With</h2>
-
 
 <div align="center">
     <table align="center">
@@ -87,15 +85,6 @@ I'm interested in **EVERYTHING** that involves tech in some way or another and I
         </tbody>
     </table>
 </div>
-
-<!-- ## :computer: GitHub Analytics
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=wanildopneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/wanildopneto)
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wanildopneto&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/wanildopneto)
-
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
--->
 
 <h2 align="center">🐍 Git Commit Schedule</h2>
 
