@@ -48,8 +48,8 @@ jobs:
       # Run Linter against code base #
       ################################
       - name: Lint Code Base
-        # uses: github/super-linter@v4    # All Linters Included - Slower - 2GB Heavier
-        uses: github/super-linter:slim-v4 # Slim Version - No Rust, DotENV, armttk, pwsh, C# Linters
+        uses: github/super-linter@v4    # All Linters Included - Slower - 2GB Heavier
+        # uses: github/super-linter:slim-v4 # Slim Version - No Rust, DotENV, armttk, pwsh, C# Linters
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
