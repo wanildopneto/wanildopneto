@@ -1,4 +1,4 @@
-<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/wanildopneto/"><img src="https://github.com/wanildopneto/wanildopneto/blob/main/img/Hi.gif" width="30px" style="max-width:100%"></a> Hello there~</h1>
+<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/wanildopneto/"><img src="https://github.com/wanildopneto/wanildopneto/blob/main/img/Hi.gif" height="32px"style="max-width:100%"></a> Hello there~</h1>
 
 I'm Wanildo F. P. Neto and I'm the **IT GUY** that's always looking to solve **real-world problems** .
 
